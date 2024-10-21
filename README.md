@@ -24,8 +24,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjan-chauhan&show_icons=true&locale=en&layout=compact" alt="ranjan-chauhan" /></p>
 
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjan-chauhan&show_icons=true&locale=en" alt="ranjan-chauhan" /></p>
 
 <br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjan-chauhan&" alt="ranjan-chauhan" /></p>
