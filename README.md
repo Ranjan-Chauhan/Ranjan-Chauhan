@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ranjan-chauhan?tab=repositories](https://github.com/Ranjan-chauhan?tab=repositories)
 
-- 📫 How to reach me **chauhanranjan8935@gmail.com  / 8935891689**
+- 📫 How to reach me:  **chauhanranjan8935@gmail.com  / 8935891689**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xybL8sBy6i2ffoJQqvjoViQhqQ_hCgLF/view?usp=sharing](https://drive.google.com/file/d/1xybL8sBy6i2ffoJQqvjoViQhqQ_hCgLF/view?usp=sharing)
 
