@@ -4,6 +4,13 @@ Hi, I'm **Ranjan Kumar Chauhan**, a passionate **Software Developer** with exper
 
 ---
 
+## 📞 Contact Me
+
+- **Email**: [Chauhanranjan8935@gmail.com](mailto:Chauhanranjan8935@gmail.com)
+- **Mobile**: +91 8935891689
+
+---
+
 ## 🛠️ My Toolbox
 
 ### **Programming Languages**
