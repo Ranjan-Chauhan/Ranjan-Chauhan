@@ -67,10 +67,11 @@ I streamline deployment pipelines using AWS, Docker, and GitHub Actions.
 
 ## 📈 My GitHub Stats
 
-<div align="centre">
-![Ranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-chauhan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-chauhan&layout=compact&theme=radical)
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranjan-chauhan&show_icons=true&theme=radical" alt="Ranjan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-chauhan&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </div>
+
 
 ---
 
