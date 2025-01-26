@@ -4,41 +4,48 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a kna
 
 ---
 
-## 📈 My GitHub Stats
+## 🛠️ Technologies & Tools
 
-![Ranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-chauhan&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-chauhan&layout=compact&theme=radical)
-
-##
-
-<img align="right" height="150" src="https://lgzarturo.gallerycdn.vsassets.io/extensions/lgzarturo/the-lone-coder-vscode/0.0.3/1649782896595/Microsoft.VisualStudio.Services.Icons.Default"  />
-
-##
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+### **Programming Languages:**
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30" alt="JavaScript logo" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="30" alt="Python logo" />
 </div>
 
-###
+### **Web Technologies:**
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" height="30" alt="HTML logo" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" height="30" alt="CSS logo" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" height="30" alt="Tailwind CSS logo" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" height="30" alt="React logo" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" height="30" alt="Next.js logo" />
+  <img src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white" height="30" alt="Redux logo" />
+</div>
+
+### **Backend Technologies:**
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" height="30" alt="Node.js logo" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" height="30" alt="Express.js logo" />
+</div>
+
+### **Databases:**
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" height="30" alt="MongoDB logo" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30" alt="PostgreSQL logo" />
+</div>
+
+### **Dev Tools:**
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="30" alt="Git logo" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="30" alt="GitHub logo" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" height="30" alt="AWS logo" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" height="30" alt="Docker logo" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" height="30" alt="Postman logo" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" height="30" alt="GraphQL logo" />
+  <img src="https://img.shields.io/badge/-Google_OAuth_2.0-4285F4?logo=google&logoColor=white" height="30" alt="Google OAuth logo" />
+  <img src="https://img.shields.io/badge/-CI/CD_Pipelines-61DAFB?logo=github-actions&logoColor=white" height="30" alt="CI/CD Pipelines logo" />
+</div>
+
 
 ---
 
@@ -55,6 +62,14 @@ I manage both relational (PostgreSQL) and non-relational (MongoDB) databases eff
 
 ### **DevOps & Cloud**
 I streamline deployment pipelines using AWS, Docker, and GitHub Actions.
+
+---
+
+## 📈 My GitHub Stats
+
+![Ranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-chauhan&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-chauhan&layout=compact&theme=radical)
 
 ---
 
