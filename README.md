@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ranjan Kumar Chauhan and I'm a Software Developer, from India</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://lgzarturo.gallerycdn.vsassets.io/extensions/lgzarturo/the-lone-coder-vscode/0.0.3/1649782896595/Microsoft.VisualStudio.Services.Icons.Default"  />
 
 ###
 
