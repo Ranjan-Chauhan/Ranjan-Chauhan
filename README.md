@@ -54,8 +54,10 @@ A video streaming app built with:
 
 ## 🌍 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ranjan-Chauhan)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Ranjan-chauhan)
+  <p align="left">
+  <a href="https://linkedin.com/in/Ranjan-Chauhan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Ranjan-chauhan"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
