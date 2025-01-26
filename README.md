@@ -1,17 +1,20 @@
-<h2 align="left">Hi 👋! My name is Ranjan Kumar Chauhan and I'm a Software Developer, from India.</h2>
+# Hi there, I'm Ranjan Kumar Chauhan! 👋
 
-###
+Welcome to my GitHub profile! I'm a passionate **Software Developer** with a knack for building scalable and efficient solutions. From crafting beautiful user interfaces to architecting robust backend systems, I thrive on solving complex problems using modern technologies.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjan-chauhan&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-chauhan&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
+---
 
-###
+## 📈 My GitHub Stats
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![Ranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-chauhan&show_icons=true&theme=radical)
 
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-chauhan&layout=compact&theme=radical)
+
+##
+
+<img align="right" height="150" src="https://lgzarturo.gallerycdn.vsassets.io/extensions/lgzarturo/the-lone-coder-vscode/0.0.3/1649782896595/Microsoft.VisualStudio.Services.Icons.Default"  />
+
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -37,13 +40,43 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-</div>
+---
 
-###
+## 🚀 What I Do
 
-<br clear="both">
+### **Frontend Development**
+I design and develop responsive, user-friendly interfaces using modern libraries like React.js and TailwindCSS.
 
-<img src="https://raw.githubusercontent.com/Ranjan-chauhan/Ranjan-chauhan/output/snake.svg" alt="Snake animation" />
+### **Backend Development**
+I build robust APIs and server-side solutions with Node.js, Express.js, and GraphQL.
+
+### **Database Management**
+I manage both relational (PostgreSQL) and non-relational (MongoDB) databases efficiently.
+
+### **DevOps & Cloud**
+I streamline deployment pipelines using AWS, Docker, and GitHub Actions.
+
+---
+
+## 🌟 Featured Projects
+
+### [Style India - E-Commerce Website](https://github.com/Ranjan-chauhan/Style-India)
+A fully functional e-commerce website featuring:
+- Product categories and dynamic filtering
+- Optimized API calls
+- Backend powered by Node.js and MongoDB
+
+### [Employee Management System](https://github.com/Ranjan-chauhan/EMS)
+A user-friendly employee management system with JWT authentication and MongoDB integration.
+
+### [StreamVerse](https://github.com/Ranjan-chauhan/StreamVerse)
+A video streaming app using Fetch API and JWT for secure authentication.
+
+---
+
+## 🤝 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ranjan-Chauhan)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Ranjan-chauhan)
+
+Let's create something amazing together! 🚀
