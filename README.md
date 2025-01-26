@@ -54,11 +54,11 @@ A video streaming app built with:
 
 ## 🌍 Let's Connect
 
-  <p align="left">
-  <a href="https://linkedin.com/in/Ranjan-Chauhan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Ranjan-chauhan"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://twitter.com/Ranjan_Chauhan"><img src="https://img.shields.io/badge/-Twitter-00acee?logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/Ranjan_Chauhan"><img src="https://img.shields.io/badge/-Instagram-e4405f?logo=Instagram&logoColor=white" alt="Instagram"></a>
+<p align="left">
+  <a href="https://linkedin.com/in/Ranjan-Chauhan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Ranjan-chauhan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://twitter.com/Ranjan_Chauhan"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/Ranjan_Chauhan"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
