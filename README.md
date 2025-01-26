@@ -1,64 +1,76 @@
-# 🌟 Welcome to My GitHub Profile!
+# Hey, I'm Ranjan 👋
 
-Hi, I'm **Ranjan Kumar Chauhan**, a passionate **Software Developer** with expertise in creating seamless user experiences and scalable backend systems. My journey is fueled by curiosity and a love for cutting-edge technologies. 🚀
+## 👨‍💻 Software Developer | Full-Stack Enthusiast | Technology Explorer
 
----
+Welcome to my GitHub! I'm Ranjan, a passionate software developer who loves building scalable and efficient applications. I'm always looking to learn new technologies and improve my skills. Here you'll find a mix of my work in web development, backend systems, cloud solutions, and more!
 
-## 🛠️ My Toolbox
+![Profile Image](https://avatars.githubusercontent.com/u/your-profile-image-url)
 
-### **Programming Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+## 🛠️ Technologies & Tools
 
-### **Frontend Development**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+### Front-End:
+- ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- HTML & CSS
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+### Back-End:
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- MongoDB, PostgreSQL
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+### DevOps & Cloud:
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- CI/CD with GitHub Actions
 
-### **DevOps & Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Google OAuth 2.0](https://img.shields.io/badge/-Google_OAuth_2.0-4285F4?logo=google&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD_Pipelines-61DAFB?logo=github-actions&logoColor=white)
+### APIs & Tools:
+- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+- Google OAuth 2.0
+- Postman
+- Git & GitHub
 
----
+## 🚀 My Projects
 
-## 📈 GitHub Statistics
+### 1. **[Style India - E-Commerce Shopping Website](https://github.com/Ranjan-chauhan/style-india)**
+- A fully functional e-commerce website built with React.js, Node.js, and MongoDB.
+- Includes features like product categories, search, cart, and user authentication.
 
-<p align="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjan-chauhan&show_icons=true&theme=radical" alt="Ranjan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan-chauhan&theme=radical" alt="Ranjan's GitHub Streak" />
-</p>
+### 2. **[Blogger - Blog Website](https://github.com/Ranjan-chauhan/blogger)**
+- A simple blog website built using React.js and Tailwind CSS.
+- Users can create and manage blog posts via a content management system (CMS).
 
----
+### 3. **[StreamVerse - Video Streaming App](https://github.com/Ranjan-chauhan/streamverse)**
+- A video streaming platform for watching and sharing videos.
+- Integrated JWT authentication for secure login and user management.
 
-## 🌟 Featured Projects
+### 4. **[Employee Management System](https://github.com/Ranjan-chauhan/employee-management)**
+- A full-featured Employee Management System with CRUD operations.
+- Designed using React, Node.js, and MongoDB.
 
-### [🎨 Style India - E-Commerce Website](https://github.com/Ranjan-chauhan/Style-India)
-A fully functional e-commerce platform featuring:
-- **Dynamic filtering** of product categories
-- **Optimized API calls** for better performance
-- **Backend** powered by Node.js and MongoDB
+## 📈 GitHub Stats
 
-### [👥 Employee Management System](https://github.com/Ranjan-chauhan/EMS)
-A user-friendly management system with:
-- **JWT-based authentication**
-- **Efficient data handling** using MongoDB
+![Ranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ranjan-chauhan&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-### [📺 StreamVerse](https://github.com/Ranjan-chauhan/StreamVerse)
-A video streaming app built with:
-- **Fetch API** for seamless content delivery
-- **JWT** for secure user authentication
+## 🤝 Let's Connect
 
----
+- [LinkedIn](https://www.linkedin.com/in/Ranjan-Chauhan)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Email](mailto:your-email@example.com)
 
-## 🌍 Let's Connect
+### 🌱 I'm currently learning:
+- Cloud technologies (AWS, Docker)
+- Serverless architecture and GraphQL
+- Improving my DevOps skills
 
-<p align="center">
-  <a href="https://linkedin.com/in/Ranjan-Chauhan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Ranjan-chauhan"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+## 📝 Blog Posts
+- [My Journey into Full-Stack Development](https://medium.com/@your-blog-link)
+- [How I Integrated Google OAuth 2.0 in a React Application](https://medium.com/@your-blog-link)
 
----
+## 💬 Fun Facts
+- I love playing video games 🕹️.
+- I enjoy cricket 🏏.
+- Music is my life 🎧.
 
-<p align="center">✨ <strong>"Transforming ideas into impactful solutions."</strong> ✨</p>
+Feel free to explore my repositories, star, fork, or contribute to any project! 🌟
