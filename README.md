@@ -34,7 +34,7 @@ Hi, I'm **Ranjan Kumar Chauhan**, a passionate **Software Developer** with exper
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ranjan-chauhan&show_icons=true&theme=radical" alt="Ranjan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan-chauhan&theme=radical" alt="Ranjan's GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjan-chauhan&theme=radical" alt="Ranjan's GitHub Streak" /> -->
 </p>
 
 ---
